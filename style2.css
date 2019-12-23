@@ -1,0 +1,16 @@
+/*div{
+    background:url(images1/a-level-ico.png) no-repeat;
+    background-size:100%;
+    width:300px;
+    height:100px;
+    }*/
+    
+    .text {
+        width: 810px;
+        line-height: 40px;
+    }
+
+    .select {
+        font-weight: 600;
+        color: green;
+    }
